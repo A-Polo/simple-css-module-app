@@ -4,6 +4,8 @@
 
 .element {
 	padding: 20px;
+	width: 500px;
+	height: 350px;
 	background: #1A1F2C;
 }
 
